@@ -11,7 +11,7 @@ Topics Covered:
 
 
 ## Assignment 2
-### Mark Received: 78/80
+### Mark Received: 73.75/74
 
 Topics Covered:
 + One-Way ANOVA
@@ -28,12 +28,36 @@ Topics Covered:
 Topics Covered:
 + Variance Stabilization Methods
 + Contrasts
-+ Random Effects Models
++ Random Effects Model
 
 ## Assignment 4
 ### Mark Received: TBA
 
 Topics Covered:
-+ Completely Randomized Block Design
++ Completely Randomized Block Design (CRBD)
++ Random Block Effects in CRBD
++ Latin Square Experimental Design
++ Two Factorial Design
++ Two Factorial Design with Random Factors
++ Two Factorial Design with Fixed Factors
++ Two Factorial Design with Mixed Factors
+
+## Assignment 5 (not yet distributed)
+### Mark Received: TBA
+
+Topics Covered (potentially):
++ Three Factor Experimental Design
++ Multiple Comparisons for a Three Factor (Fixed) Model
++ Confidence Intervals for a Combination of Factors
++ Three Factor Design (One Fixed Effect, Two Random Effects)
++ Three Factor Design (Three Random Effects)
+
++ Nested Experimental Design
++ Multiple Comparisons for Nested Experimental Design
++ Nested Experimental Design (One Fixed Effect, One Random Effect)
++ Double Nested Design (Three-Stage Nested Experimental Design)
++ Multiple Comparisons for Double Nested Experimental Design
+
+
 
 
