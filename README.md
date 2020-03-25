@@ -6,15 +6,27 @@ This is a repository to store all the assignments and project work that I have d
 
 Topics Covered:
 + paired t-tests
-+ 2 sample t=tests (shared and unshared variance)
++ 2 sample t-tests (shared and unshared variance)
 + Levene's test
 
 
 ## Assignment 2
 ### Mark Received: 78/80
 
+Topics Covered:
++  One-Way ANOVA
++ Kruskal-Wallis test
++ Permutation test
++ Fisher's Least Significant Difference method
++ Tukey's Honestly Significant Difference method
++ Bonferroni's method
+
+
 ## Assignment 3
 ### Mark Received: TBA
+
+Topics Covered:
++ 
 
 ## Assignment 4
 ### Mark Received: TBA
