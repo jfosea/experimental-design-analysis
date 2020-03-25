@@ -4,8 +4,11 @@ This is a repository to store all the assignments and project work that I have d
 ## Assignment 1
 ### Mark Received: 78/80
 
-+ bullet point
-+ bullet point
+Topics Covered:
++ paired t-tests
++ 2 sample t=tests (shared and unshared variance)
++ Levene's test
+
 
 ## Assignment 2
 ### Mark Received: 78/80
