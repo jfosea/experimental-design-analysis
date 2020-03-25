@@ -4,6 +4,9 @@ This is a repository to store all the assignments and project work that I have d
 ## Assignment 1
 ### Mark Received: 78/80
 
++ bullet point
++ bullet point
+
 ## Assignment 2
 ### Mark Received: 78/80
 
