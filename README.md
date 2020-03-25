@@ -51,7 +51,6 @@ Topics Covered (potentially):
 + Confidence Intervals for a Combination of Factors
 + Three Factor Design (One Fixed Effect, Two Random Effects)
 + Three Factor Design (Three Random Effects)
-
 + Nested Experimental Design
 + Multiple Comparisons for Nested Experimental Design
 + Nested Experimental Design (One Fixed Effect, One Random Effect)
