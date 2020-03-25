@@ -5,8 +5,8 @@ This is a repository to store all the assignments and project work that I have d
 ### Mark Received: 78/80
 
 Topics Covered:
-+ paired t-tests
-+ 2 sample t-tests (shared and unshared variance)
++ Paired t-tests
++ Two sample t-tests (shared and unshared variance)
 + Levene's test
 
 
@@ -14,7 +14,7 @@ Topics Covered:
 ### Mark Received: 78/80
 
 Topics Covered:
-+  One-Way ANOVA
++ One-Way ANOVA
 + Kruskal-Wallis test
 + Permutation test
 + Fisher's Least Significant Difference method
@@ -26,8 +26,14 @@ Topics Covered:
 ### Mark Received: TBA
 
 Topics Covered:
-+ 
++ Variance Stabilization Methods
++ Contrasts
++ Random Effects Models
 
 ## Assignment 4
 ### Mark Received: TBA
+
+Topics Covered:
++ Completely Randomized Block Design
+
 
